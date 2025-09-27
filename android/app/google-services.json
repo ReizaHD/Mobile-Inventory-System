@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "724594242394",
+    "project_id": "vertical-mapper-445604-d7",
+    "storage_bucket": "vertical-mapper-445604-d7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724594242394:android:c845b8ff3767f6e9e7f963",
+        "android_client_info": {
+          "package_name": "com.example.mis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG2JXFYQ827r76Yr2ool-XfZk4J4at5Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724594242394:android:270cdd66dda1290fe7f963",
+        "android_client_info": {
+          "package_name": "com.example.mis.mobile_inventory_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG2JXFYQ827r76Yr2ool-XfZk4J4at5Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724594242394:android:d1b845d9843b6795e7f963",
+        "android_client_info": {
+          "package_name": "com.reizahd.mobileinventorysystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG2JXFYQ827r76Yr2ool-XfZk4J4at5Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
