@@ -1,7 +1,6 @@
 # Mobile Inventory System
 
-Aplikasi Sistem Inventaris untuk Mobile — built with Flutter.  
-(“Mobile Inventory System”)  
+Mobile Inventory System — built with Flutter.  
 
 ## Table of Contents  
 - [About](#about)  
